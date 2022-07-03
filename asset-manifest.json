@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ce44891.css",
-    "main.js": "/static/js/main.1169d39e.js",
+    "main.css": "/static/css/main.978a2afe.css",
+    "main.js": "/static/js/main.22ea59cf.js",
     "static/media/demo.gif": "/static/media/demo.642b26a931675a3769b6.gif",
+    "static/media/fun-life-112188.mp3": "/static/media/fun-life-112188.a6b2ddedc957b858531e.mp3",
     "static/media/m.png": "/static/media/m.c1baa26c2fa921deb6a7.png",
     "static/media/home.jpg": "/static/media/home.7ba5e2701f850df907cb.jpg",
     "static/media/m4.png": "/static/media/m4.657c8f16407226283fea.png",
@@ -20,11 +21,11 @@
     "static/media/HackerEarth.png": "/static/media/HackerEarth.1e6d5c80c781f4488ec4.png",
     "static/media/rnar.webp": "/static/media/rnar.4b386982d255ac8647fc.webp",
     "index.html": "/index.html",
-    "main.8ce44891.css.map": "/static/css/main.8ce44891.css.map",
-    "main.1169d39e.js.map": "/static/js/main.1169d39e.js.map"
+    "main.978a2afe.css.map": "/static/css/main.978a2afe.css.map",
+    "main.22ea59cf.js.map": "/static/js/main.22ea59cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ce44891.css",
-    "static/js/main.1169d39e.js"
+    "static/css/main.978a2afe.css",
+    "static/js/main.22ea59cf.js"
   ]
 }
