@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.19109fca.css",
-    "main.js": "/static/js/main.0d008e23.js",
+    "main.js": "/static/js/main.d70cb9a0.js",
     "static/media/demo.gif": "/static/media/demo.642b26a931675a3769b6.gif",
     "static/media/fun-life-112188.mp3": "/static/media/fun-life-112188.a6b2ddedc957b858531e.mp3",
     "static/media/m.png": "/static/media/m.c1baa26c2fa921deb6a7.png",
@@ -9,10 +9,10 @@
     "static/media/m4.png": "/static/media/m4.657c8f16407226283fea.png",
     "static/media/img7.png": "/static/media/img7.c3208656b4dc01644d56.png",
     "static/media/Ankit_Resume.pdf": "/static/media/Ankit_Resume.6050b713f4fe821d4f4c.pdf",
-    "static/media/profilepic.jpg": "/static/media/profilepic.10d64d2bd46a177bb208.jpg",
     "static/media/m9.png": "/static/media/m9.fcda43eae890aac6c50a.png",
     "static/media/m3.png": "/static/media/m3.d120fe256ed2e0df2359.png",
     "static/media/cutm.jpg": "/static/media/cutm.0b53cf90e7f5a7011319.jpg",
+    "static/media/profile_photo.jpg": "/static/media/profile_photo.329936159d751b3845fd.jpg",
     "static/media/bseb.jpg": "/static/media/bseb.387fd1195aabec5c5a1b.jpg",
     "static/media/m6.png": "/static/media/m6.774339c0eb99d6a5d617.png",
     "static/media/m5.png": "/static/media/m5.d00731ad41a1b93a6d2a.png",
@@ -22,10 +22,10 @@
     "static/media/rnar.webp": "/static/media/rnar.4b386982d255ac8647fc.webp",
     "index.html": "/index.html",
     "main.19109fca.css.map": "/static/css/main.19109fca.css.map",
-    "main.0d008e23.js.map": "/static/js/main.0d008e23.js.map"
+    "main.d70cb9a0.js.map": "/static/js/main.d70cb9a0.js.map"
   },
   "entrypoints": [
     "static/css/main.19109fca.css",
-    "static/js/main.0d008e23.js"
+    "static/js/main.d70cb9a0.js"
   ]
 }
