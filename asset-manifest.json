@@ -1,31 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d8560e4.css",
-    "main.js": "/static/js/main.45b5e508.js",
+    "main.css": "/static/css/main.1f13222e.css",
+    "main.js": "/static/js/main.8cc3aca1.js",
     "static/media/demo.gif": "/static/media/demo.642b26a931675a3769b6.gif",
     "static/media/fun-life-112188.mp3": "/static/media/fun-life-112188.a6b2ddedc957b858531e.mp3",
     "static/media/m.png": "/static/media/m.c1baa26c2fa921deb6a7.png",
     "static/media/home.jpg": "/static/media/home.7ba5e2701f850df907cb.jpg",
     "static/media/m4.png": "/static/media/m4.657c8f16407226283fea.png",
     "static/media/img7.png": "/static/media/img7.c3208656b4dc01644d56.png",
-    "static/media/Ankit_Resume.pdf": "/static/media/Ankit_Resume.6050b713f4fe821d4f4c.pdf",
     "static/media/m9.png": "/static/media/m9.fcda43eae890aac6c50a.png",
     "static/media/m3.png": "/static/media/m3.d120fe256ed2e0df2359.png",
     "static/media/cutm.jpg": "/static/media/cutm.0b53cf90e7f5a7011319.jpg",
     "static/media/profile_photo.jpg": "/static/media/profile_photo.329936159d751b3845fd.jpg",
-    "static/media/bseb.jpg": "/static/media/bseb.387fd1195aabec5c5a1b.jpg",
     "static/media/m6.png": "/static/media/m6.774339c0eb99d6a5d617.png",
     "static/media/m5.png": "/static/media/m5.d00731ad41a1b93a6d2a.png",
-    "static/media/imuna.jpg": "/static/media/imuna.15b2f09ab1073ebcca41.jpg",
     "static/media/club.jpg": "/static/media/club.8d4164c3d47102950f69.jpg",
     "static/media/HackerEarth.png": "/static/media/HackerEarth.1e6d5c80c781f4488ec4.png",
-    "static/media/rnar.webp": "/static/media/rnar.4b386982d255ac8647fc.webp",
     "index.html": "/index.html",
-    "main.6d8560e4.css.map": "/static/css/main.6d8560e4.css.map",
-    "main.45b5e508.js.map": "/static/js/main.45b5e508.js.map"
+    "main.1f13222e.css.map": "/static/css/main.1f13222e.css.map",
+    "main.8cc3aca1.js.map": "/static/js/main.8cc3aca1.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d8560e4.css",
-    "static/js/main.45b5e508.js"
+    "static/css/main.1f13222e.css",
+    "static/js/main.8cc3aca1.js"
   ]
 }
