@@ -37,7 +37,7 @@ Below are some of the projects I've worked on. These projects showcase my skills
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an event. Feel free to reach out to me through the following channels:
 
-- **Email**: [ankitkumar@gmail.com](mailto:ankitkumar@gmail.com)
+- **Email**: [ankitkumarcse91@gmail.com](mailto:ankitkumarcse91@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/ankitkumarcse/](https://www.linkedin.com/in/ankitkumarcse/)
 - **GitHub**: [https://github.com/ankitjha-webdev](https://github.com/ankitjha-webdev)
 
